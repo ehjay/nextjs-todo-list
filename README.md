@@ -16,3 +16,15 @@ Install `pnpm`:
 ```
 npm install -g pnpm
 ```
+
+Install project dependencies:
+
+```
+pnpm i
+```
+
+Run the server:
+
+```
+pnpm dev
+```
