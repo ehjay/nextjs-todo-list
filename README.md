@@ -28,3 +28,5 @@ Run the server:
 ```
 pnpm dev
 ```
+
+[Open the app on localhost:3000](http://localhost:3000)
